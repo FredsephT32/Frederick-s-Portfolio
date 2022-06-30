@@ -12,7 +12,7 @@
   
   }
 
-.headline {
+ .headline {
   background-image: url("./Images/header-shapes\ mobile.png");
   background-repeat: no-repeat;
   display: flex;
@@ -21,9 +21,9 @@
   padding: 20px 10px;
   position: absolute;
   width: 400px;
-}
+  }
 
-.cheers-txt {
+ .cheers-txt {
  font-family: "Poppins";
  width: 300px;
  min-height: 150px;
@@ -33,27 +33,27 @@
  display: flex;
  align-items: center;
  color: #172B4D;
-}
+ }
 
-.Greetings-txt .main-headline-txt {
+ .Greetings-txt .main-headline-txt {
   width: 327px;
   min-height: 192px;
-}
+ }
 
-.Greetings-txt h2 {
+ .Greetings-txt h2 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
   text-align: center;
-}
+ }
 
-.cheers-txt {
+ .cheers-txt {
   color: #172b4d;
-}
+ }
 
 
-.main-headline-txt p {
+ .main-headline-txt p {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 18px;
@@ -62,26 +62,27 @@
   color: #481060;
   width: 327px;
   min-height: 164px;
-}
+ }
 
-.Logo {
+ .Logo {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 900vw;
   font-size: 20px;
   line-height: 28vh;
-}
+ }
 
-.connect{
+ .connect{
   font-family: 'Poppins';
   color: aqua;
   font-size: medium;
-}
+ }
 
-.media-Images {
+ .media-Images {
   display: flex;
   width: 200px;
   padding: 20px 20px;
   justify-content: space-between;
-}
+ }
+
 }
