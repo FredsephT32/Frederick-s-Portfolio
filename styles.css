@@ -17,15 +17,15 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 24px;
+  padding: 20px 10px;
   position: absolute;
-  width: 375px;
+  width: 400px;
 }
 
 .cheers-txt {
  font-family: "Poppins";
  width: 327px;
- height: 150px;
+ min-height: 150px;
  font-family: 'Poppins';
  font-style: normal;
  font-weight: 700;
@@ -39,7 +39,7 @@
 
 .Greetings-txt .main-headline-txt {
   width: 327px;
-  height: 192px;
+  min-height: 192px;
 }
 
 .Greetings-txt h2 {
@@ -63,22 +63,29 @@
   font-size: 18px;
   line-height: 28px;
   text-align: center;
-  color: #172b4d;
+  color: #481060;
   width: 327px;
-  height: 164px;
+  min-height: 164px;
 }
 
 .Logo {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
-  font-weight: 900;
+  font-weight: 900vw;
   font-size: 20px;
-  line-height: 28px;
+  line-height: 28vh;
+}
+
+.connect{
+  font-family: 'Poppins';
+  color: aqua;
+  font-size: medium;
 }
 
 .media-Images {
   display: flex;
   width: 200px;
+  padding: 20px 20px;
   justify-content: space-between;
 }
 

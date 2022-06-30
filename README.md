@@ -27,7 +27,7 @@
 
 - GitHub: [@githubhandle](https://github.com/FredsephT32)
 - Twitter: [@twitterhandle](https://twitter.com/Frederi70813362)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/frederick-torres-900b4a196/)
 
 
 ## 📝 License
